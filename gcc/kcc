@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc -ffreestanding -ansi -g -c $*
